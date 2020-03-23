@@ -73,11 +73,12 @@ Output: `3`
 
 ### `pow: `
 
-The pow operator can be used to calculate an integer to the power of two.
+The pow operator can be used to calculate an integer to the power of another integer.
 
 Example:
 ```
 Number 1: 3
 Operator: pow
+Number 2: 3
 ```
-Example: `pow: 9`
+Output: `27`
